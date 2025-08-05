@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <div class="conteiner"></div>
+    <div class="conteiner">
     <div class="round">
         <i class="fa-solid fa-user-secret logo"></i>
     </div>
@@ -27,7 +27,15 @@
         <div onclick="showPassword()">
         <img class="eye" src="./images/eye.png" alt="Olho" id="eye"></div>
     </div>
-    <p>ESQUECI MINHA SENHA</p>
+    <p>esqueci minha senha</p>
+    <button class="bnt-login" onclick="login()">login </button>
+    <div class="error-div" id="error-modal">
+        <h3>credenciais incorretas</h3>
+        <button onclick="fecharError()">❌</button>
+    </div>
+
+    </div>
+
 
     <script src ="script.js"></script>
 </body>
