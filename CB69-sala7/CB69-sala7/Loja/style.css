@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url('./images/bg.jpg');
+    background-image: url('./images/');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@ h1, h2{
     top: 0;
     left: 0;
     width: 100%;
-    box-shadow: #ff4400c2 0px 6px 24px;
+    box-shadow: #ff0000c2 0px 6px 24px;
     padding: 0px 20px;
     display: flex;
     justify-content: space-between;
@@ -41,7 +41,7 @@ h1, h2{
 }
 
 #user, #idPerfil{
-   color: #ff4400;
+   color: #ff0000;
    font-weight: bolder;
 }
 
@@ -52,7 +52,7 @@ h1, h2{
 }
 
 .fa-cart-shopping:hover{
-    color: #ff4400;
+    color: #ff0000;
     opacity: 1;
     cursor: pointer;
     transform: rotate(360deg) scale(1.2);
@@ -64,4 +64,8 @@ h1, h2{
     align-items: center;
     justify-content: center;
     gap: 10px;
+}
+
+.btn{
+   font-weight: bolder;
 }
