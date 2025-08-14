@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "descricao": "Airmax 95",
+        "descricao": "Air Max 95",
         "imagem": "../Dados/images/prod1.webp",
         "preco": 1000.0
     },
     {
         "id": 2,
-        "descricao": "Tn",
+        "descricao": "Air Max Plus",
         "imagem": "../Dados/images/prod2.avif",
-        "preco": 1005.0
+        "preco": 900.0
     },
     {
         "id": 3,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 1000.0
+        "descricao": "Camisa Polo",
+        "imagem": "../Dados/images/prod3.avif",
+        "preco": 240.0
     },
     {
         "id": 4,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 1.0
+        "descricao": "Corta Vento",
+        "imagem": "../Dados/images/prod4.webp",
+        "preco": 400.0
     },
     {
         "id": 5,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 16.0
+        "descricao": "Nike Shox",
+        "imagem": "../Dados/images/prod5.avif",
+        "preco": 1300.0
     },
     {
         "id": 6,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 60.0
+        "descricao": "Camiseta Barcelona",
+        "imagem": "../Dados/images/prod6.webp",
+        "preco": 380.0
     },
     {
         "id": 7,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 5.0
+        "descricao": "Chuteira HyperVenom",
+        "imagem": "../Dados/images/prod7.avif",
+        "preco": 1600.0
     },
     {
         "id": 8,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 3.0
+        "descricao": "Camiseta Corinthians",
+        "imagem": "../Dados/images/prod8.avif",
+        "preco": 400.0
     },
      {
         "id": 9,
-        "descricao": "",
-        "imagem": "../Dados/images/",
-        "preco": 5.30
+        "descricao": "Chinelao",
+        "imagem": "../Dados/images/prod9.avif",
+        "preco": 250.0
     }
 ]
